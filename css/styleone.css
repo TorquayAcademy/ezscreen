@@ -12,8 +12,8 @@ html,body{
 	position:absolute;
 	top:2%;
 	left:0;
-	height:16%;
-	width:60%;
+	height:15%;
+	width:30%;
 	overflow:hidden;
 	z-index:100;
 }
