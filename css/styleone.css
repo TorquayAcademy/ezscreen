@@ -11,7 +11,7 @@ html,body{
 #header{
 	position:absolute;
 	top:2%;
-	left:0;
+	left:5%;
 	height:15%;
 	width:30%;
 	overflow:hidden;
@@ -20,7 +20,7 @@ html,body{
 #time{
 	position:absolute;
 	top:5%;
-	right:15%;
+	right:0%;
 	overflow:hidden;
 	z-index:100;
 	color:white;
@@ -30,7 +30,7 @@ html,body{
 #letter{
 	position:absolute;
 	top:0px;
-	right:0px;
+	right:5px;
 	height:20%;
 	overflow:hidden;		
 }
