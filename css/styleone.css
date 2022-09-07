@@ -20,7 +20,7 @@ html,body{
 #time{
 	position:absolute;
 	top:5%;
-	right:0%;
+	right:32%;
 	overflow:hidden;
 	z-index:100;
 	color:white;
