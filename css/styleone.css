@@ -30,7 +30,7 @@ html,body{
 #letter{
 	position:absolute;
 	top:0px;
-	right:5px;
+	right:200px;
 	height:20%;
 	overflow:hidden;		
 }
